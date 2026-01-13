@@ -1,0 +1,17 @@
+{
+  "name": "oelp",
+  "version": "1.0.0",
+  "description": "OELP Project - Campus Event Dashboard",
+  "scripts": {
+    "start": "cd \"OELP project/Events/Events/Campus-Event-Dashboard/backend\" && npm start",
+    "server": "cd \"OELP project/Events/Events/Campus-Event-Dashboard/backend\" && npm start",
+    "serve5": "cd \"OELP project/Events/Events/Campus-Event-Dashboard/backend\" && npm start",
+    "backend": "cd \"OELP project/Events/Events/Campus-Event-Dashboard/backend\" && npm start",
+    "backend:dev": "cd \"OELP project/Events/Events/Campus-Event-Dashboard/backend\" && npm run dev",
+    "frontend": "cd \"OELP project/Events\" && npm run dev",
+    "dev": "cd \"OELP project/Events\" && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
